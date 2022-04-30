@@ -1,0 +1,34 @@
+{
+  "name": "americainc",
+  "version": "1.0.0",
+  "description": "landing page hotel america inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosales14/AmericaIncHotelLanding.git"
+  },
+  "keywords": [
+    "America",
+    "inc",
+    "hotel",
+    "landing",
+    "site",
+    "page",
+    "sitio",
+    "pagina"
+  ],
+  "author": "Fernando Rosales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frosales14/AmericaIncHotelLanding/issues"
+  },
+  "homepage": "https://github.com/frosales14/AmericaIncHotelLanding#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.50.0"
+  }
+}
